@@ -13,8 +13,8 @@ router.post("/api/workouts", (req, res) => {
 
 router.get("api/workouts", (req, res) => {
     Workout.find()
-    .then((dbWorkouts) => {
-        res.json(dbWorkouts);
+    .then((dbWorkout) => {
+        res.json(dbWorkout);
     })
     .catch((err) => {
         res.json(err);
