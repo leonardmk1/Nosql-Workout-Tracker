@@ -14,7 +14,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "glob": "^7.1.6",
-    "logger": "0.0.1",
     "mongoose": "^5.9.18",
     "morgan": "^1.10.0"
   }
