@@ -20,7 +20,3 @@ The user should be able to:
 https://calm-castle-90248.herokuapp.com/
 https://github.com/leonardmk1/Nosql-Workout-Tracker
 https://leonardmk1.github.io/Nosql-Workout-Tracker/
-<<<<<<< HEAD
-
-=======
->>>>>>> d059bb31177f4d8e8717ed93b1a63699a43ce576
